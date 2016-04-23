@@ -1,7 +1,7 @@
 {
   "name": "top-banana-logger",
-  "version": "0.0.1",
-  "description": "flexible logger",
+  "version": "0.0.2",
+  "description": "flexible logger in typescript",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/cnishina/top-banana-logger.git"

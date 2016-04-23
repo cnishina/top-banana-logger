@@ -1,0 +1,27 @@
+{
+  "name": "top-banana-logger",
+  "version": "0.0.1",
+  "description": "flexible logger",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cnishina/top-banana-logger.git"
+  },
+  "author": "Craig Nishina <craig.nishina@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cnishina/top-banana-logger/issues"
+  },
+  "homepage": "https://github.com/cnishina/top-banana-logger#readme",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  },
+  "devDependencies": {
+    "clang-format": "^1.0.37",
+    "gulp": "^3.9.1",
+    "gulp-clang-format": "^1.0.23",
+    "jasmine": "^2.4.1",
+    "run-sequence": "^1.1.5",
+    "typescript": "^1.8.10",
+    "typings": "^0.8.1"
+  }
+}

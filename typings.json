@@ -1,7 +1,7 @@
 {
-  "ambientDependencies": {
+  "globalDependencies": {
     "chalk": "registry:dt/chalk#0.4.0+20160317120654",
-    "jasmine": "registry:dt/jasmine#2.2.0+20160412134438",
-    "node": "registry:dt/node#4.0.0+20160412142033"
+    "jasmine": "registry:dt/jasmine#2.2.0+20160621224255",
+    "node": "registry:dt/node#6.0.0+20160720070758"
   }
 }

@@ -7,13 +7,11 @@
     "declaration": true,
     "removeComments": false,
     "noImplicitAny": true,
-    "outDir": "built/"
+    "outDir": "build/"
   },
   "exclude": [
-    "built",
+    "build",
     "node_modules",
-    "typings/browser",
-    "typings/browser.d.ts",
-    "typings/main"
+    "typings/global"
   ]
 }

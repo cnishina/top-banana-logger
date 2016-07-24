@@ -1,4 +1,4 @@
-/// <reference path = "../typings/main/ambient/jasmine/index.d.ts"/>
+/// <reference path = "../typings/globals/jasmine/index.d.ts"/>
 
 import * as fs from 'fs';
 import * as os from 'os';

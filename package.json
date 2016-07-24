@@ -1,6 +1,6 @@
 {
   "name": "top-banana-logger",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "flexible logger in typescript",
   "repository": {
     "type": "git",
@@ -13,7 +13,7 @@
   },
   "homepage": "https://github.com/cnishina/top-banana-logger#readme",
   "main": "build/lib/logger.js",
-  "typings": "build/lib/logger.d.s",
+  "typings": "build/lib/logger.d.ts",
   "scripts": {
     "prepublish": "npm run typings && npm run tsc",
     "test": "jasmine",
